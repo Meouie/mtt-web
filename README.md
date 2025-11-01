@@ -1,6 +1,6 @@
 # Minemen Tier Tests Website
 
-This is the official website for the Discord server **Minemen Tier Tests**, created by antinity.
+This is the official website for the Discord server **Minemen Tier Tests**, created by Meouie.
 
 ## About
 
@@ -47,4 +47,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made by antinity for the Minemen Tier Tests Discord community.
+Made by Meouie for the Minemen Tier Tests Discord community.
