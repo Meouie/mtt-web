@@ -11,11 +11,11 @@ const Footer = () => {
           <p className="text-lg text-gray-300">
             ❤️ Website by{" "}
             <a
-              href="https://antinity.me"
+              href="https://meouie.github.io/Homepage/"
               target="_blank"
               className="text-pink-400 hover:text-pink-500 transition font-bold"
             >
-              Antinity
+              Meouie aka Moksh
             </a>
           </p>
           <p className="text-sm text-gray-300">
